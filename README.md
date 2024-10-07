@@ -44,7 +44,7 @@ If you’re also a language learner or want to collaborate, feel free to connect
 
 - LinkedIn: [My Profile](https://www.linkedin.com/in/tameronline)
 - GitHub: [My GitHub](https://github.com/TamerOnLine)
-- Duolingo Profile: [Duolingo Profile Link](https://www.duolingo.com/yourusername)
+- Duolingo Profile: [Duolingo Profile Link](https://www.duolingo.com/profile/RoseLisaJenne714)
 
 ---
 
