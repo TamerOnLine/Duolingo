@@ -29,10 +29,7 @@ Here is a weekly breakdown of my Duolingo practice sessions:
 | Week 2       | 450 XP    | 14 days        | A2               |
 | Week 3       | 250 XP    | 21 days        |                  |
 
-## 📚 Resources I am Using
-- [Duolingo](https://www.duolingo.com/) - Primary learning tool.
-- [German Grammar Book](https://www.amazon.com/Best-German-Grammar-Book) - For deep understanding of grammar rules.
-- [YouTube Channel](https://www.youtube.com/channel/UCEXzfwkl7LTJm-QBnxQzwwQ) - Listening practice.
+
 
 ## 🤖 Automation and Updates
 This repository is automatically updated using a custom script to track my daily XP and streak. Feel free to check back regularly for new progress updates!
